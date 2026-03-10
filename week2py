@@ -1,0 +1,14 @@
+fullname = "Jiroh Daniel"
+age = 20
+height = 1.75
+currently_working = False
+
+
+print(f"Fullname: {fullname}")
+print(type(fullname))
+print(f"Age: {age}")
+print(type(age))
+print(f"Height: {height}")
+print(type(height))
+print(f"Currently Working: {currently_working}")
+print(type(currently_working))
